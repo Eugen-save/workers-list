@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/workers-list/static/js/main.e19f4e11.js",
+    "static/js/787.820366aa.chunk.js": "/workers-list/static/js/787.820366aa.chunk.js",
+    "index.html": "/workers-list/index.html",
+    "main.e19f4e11.js.map": "/workers-list/static/js/main.e19f4e11.js.map",
+    "787.820366aa.chunk.js.map": "/workers-list/static/js/787.820366aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e19f4e11.js"
+  ]
+}
